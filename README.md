@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Reach me on gmail at sharad.duwal.
+
 <!--
 **sharad461/sharad461** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
